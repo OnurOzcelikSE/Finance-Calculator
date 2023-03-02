@@ -47,4 +47,6 @@ A home bond is a type of loan that is used to purchase a house or property.
 
 The home bond repayment is usually paid monthly over a specified loan term. 
 
-The exact amount of a monthly home bond repayment will depend on the size of the loan, the interest rate, and the loan term.
+The exact amount of a monthly home bond repayment will depend on the size of the loan, 
+
+the interest rate, and the loan term.
