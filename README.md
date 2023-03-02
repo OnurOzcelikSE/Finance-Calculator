@@ -1,3 +1,7 @@
+This finance calculator provides user two options called "investment" and "bond" either to calculate a return on an investment or the monthly repayment of a bond. 
+
+This code is written in Python for first capstone project in the Hyperion Dev Software Engineer Bootcamp.
+
 **Types of Interest**
 
 Interest is a fee for borrowing money. It is usually a percentage of the amount borrowed or saved. 
